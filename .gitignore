@@ -1,10 +1,7 @@
 *.classpath
 *.project
-/HomeWork1/.settings/
-/HomeWork1/.src/
-
-/HomeWork2/.settings/
-/HomeWork2/.src/
+/HomeWork1/*!/HomeWork1/bin/
+/HomeWork2/*!/HomeWork1/bin/
 
 # Log file
 *.log
