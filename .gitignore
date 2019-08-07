@@ -1,5 +1,10 @@
-# Compiled class file
-*.class
+*.classpath
+*.project
+/HomeWork1/.settings/
+/HomeWork1/.src/
+
+/HomeWork2/.settings/
+/HomeWork2/.src/
 
 # Log file
 *.log
