@@ -1,10 +1,10 @@
 *.classpath
 *.project
 
-/HomeWork1/src/
+/HomeWork1/bin/
 /HomeWork1/.settings/
 
-/HomeWork2/src/
+/HomeWork2/bin/
 /HomeWork2/.settings/
 
 
